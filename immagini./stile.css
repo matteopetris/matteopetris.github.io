@@ -1,0 +1,36 @@
+
+html{
+	margin: 0;
+	padding: 50;
+	border: 0;
+	font-size: 100%;
+	font:inherit;
+	vertical-align:inherit;
+}
+
+h2{
+   font: sans-serif;
+   color:rgb(93, 240, 20);
+ }
+ 
+ body{
+	background-color: rgb(201, 238, 245) ;
+	
+ }
+
+ .importante {
+	color:rgb(255, 0, 0);
+	font-size: larger;
+}
+.uno{
+	position: absolute;
+	width: 15%;
+}
+.due{
+	width: 55%;
+	
+}
+.tre{
+
+	width: 30%;
+}
